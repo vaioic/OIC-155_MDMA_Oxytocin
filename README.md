@@ -1,4 +1,4 @@
-# Project_Template
+# OIC-155
 
 QuPath v5.1
 CellPose v3.1
